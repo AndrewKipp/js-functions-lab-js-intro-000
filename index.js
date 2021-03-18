@@ -1,6 +1,5 @@
 // write your code below!
 function (happyHolidays) {
-  if (true) 
+  if (true)
     return ("Happy Holidays"!)
   }
-
